@@ -71,7 +71,86 @@
   </iframe>
 
   <!-- Bouton de don -->
-  <a class="don-btn" href="https://paypal.me/tonpseudo" target="_blank">💸 Faire un don via PayPal</a>
+  <a class="don-btn" href="<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Soutenir XCII</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0d0d0d;
+      color: white;
+      font-family: 'Poppins', sans-serif;
+      text-align: center;
+    }
+    header {
+      padding: 40px 20px 10px;
+    }
+    h1 {
+      font-size: 2.5em;
+      color: #ff5500;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.1em;
+      color: #ccc;
+      margin-bottom: 30px;
+    }
+    iframe {
+      border: none;
+      width: 90%;
+      max-width: 800px;
+      height: 160px;
+      border-radius: 12px;
+      margin-bottom: 40px;
+    }
+    .don-btn {
+      background-color: #ff5500;
+      color: white;
+      text-decoration: none;
+      padding: 15px 40px;
+      border-radius: 10px;
+      font-size: 1.2em;
+      font-weight: 600;
+      transition: 0.3s;
+    }
+    .don-btn:hover {
+      background-color: #e04e00;
+      transform: scale(1.05);
+    }
+    footer {
+      margin-top: 60px;
+      font-size: 0.9em;
+      color: #777;
+      padding-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🔥 Soutiens XCII 🔥</h1>
+    <p>Chaque don m’aide à créer plus de sons, clips et projets indépendants 💽</p>
+  </header>
+
+  <!-- Lecteur SoundCloud -->
+  <iframe 
+    scrolling="no" 
+    frameborder="no" 
+    allow="autoplay" 
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/nohamvuemba&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true">
+  </iframe>
+
+  <!-- Bouton de don -->
+  <a class="don-btn" href="https://paypal.me/XCIIofficial" target="_blank">💸 Faire un don via PayPal</a>
+
+  <footer>
+    <p>Merci pour ton soutien 🙏 – XCII</p>
+  </footer>
+</body>
+</html>" target="_blank">💸 Faire un don via PayPal</a>
 
   <footer>
     <p>Merci pour ton soutien 🙏 – XCII</p>
